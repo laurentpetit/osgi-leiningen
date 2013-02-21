@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Leiningen-classloading-hook
+Bundle-SymbolicName: leiningen.classloading.hook
+Bundle-Version: 1.0.0.qualifier
+Fragment-Host: org.eclipse.osgi; extension:=framework
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ClassPath: .
